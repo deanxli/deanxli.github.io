@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Dean Li"
   bio              : "Short biography for the left-hand sidebar"
   employer         : "MIT"
-  uri              : "deanxli.com
+  uri              : "deanxli.com"
   email            : "deanli@mit.edu"
 
   # Academic websites
