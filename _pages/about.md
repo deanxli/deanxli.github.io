@@ -11,18 +11,8 @@ redirect_from:
      alt="Dean Li"
      style="width:140px; border-radius:50%; float:right; margin-left:20px; margin-top:5px;" />
 
-Welcome! I am a Ph.D. candidate in Economics at MIT. My research studies healthcare labor markets and firm technology choices, with interests in Labor, Health, and IO.
+Welcome! I am a Ph.D. candidate in Economics at MIT. My research studies healthcare labor markets and firm technology choices, with interests in Labor, Health, and IO. My research has been supported by the National Science Foundation Graduate Research Fellowship Program ([NSF GRFP](https://www.nsfgrfp.org/)) and [NBER Pre-Doctoral Fellowships]([url](https://taggs.hhs.gov/Detail/AwardDetail?arg_AwardNum=T32AG000186&arg_ProgOfficeCode=102)) funded through NIH-T32. 
 
-- **Job Market Paper:** *Title* ([PDF](/files/jmp.pdf))
-- **CV:** ([PDF](/files/cv.pdf))
-- **Email:** dean@mit.edu
+My CV is linked [here](deanxli.com).
 
----
-
-## Working Papers
-
-**Job Market Paper.** *Title.*  
-([PDF](/files/jmp.pdf))
-
-**Paper 2 (with Coauthor).** *Title.*  
-([Draft](/files/paper2.pdf))
+You can contact me at: [deanli@mit.edu](mailto:deanli@mit.edu).
