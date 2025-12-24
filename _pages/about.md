@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+---
+title: "About"
+permalink: /about/
+layout: single
+author_profile: false
+---
+
 Welcome! I am a Ph.D. candidate in Economics at MIT. My research studies healthcare labor markets and firm technology choices, with interests in Labor, Health, and IO.
 
 - **Job Market Paper:** *Title* ([PDF](/files/jmp.pdf))
