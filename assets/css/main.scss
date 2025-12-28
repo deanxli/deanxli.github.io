@@ -41,3 +41,15 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+.paper-abstract{
+  font-size: 1.05rem;     /* between heading and body */
+  line-height: 1.45;
+  margin-top: 0.35rem;
+  margin-bottom: 1.25rem;
+}
+
+.paper-cite{
+  margin-bottom: 0.25rem; /* reduces gap before abstract */
+}
